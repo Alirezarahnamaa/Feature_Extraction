@@ -5,4 +5,4 @@ https://www.researchgate.net/publication/379714148_PDF_Temporal_Relations_of_Inf
 
 ### Examples
 
-![](readme_images/ResNet.png)
+![](Readme_images/ResNet.png)
